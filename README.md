@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dh42m4c0d32 and,
-- 👀 I’m interested in CyberSecurity, especially Ethical Hacking (White Hat), QA: Software Test Automation, API testing and Performance Testing, A.I. and a lot of other things.
+- 👋 Hi, I’m Dharma Coder and,
+- 👀 I’m interested in CyberSecurity, especially Ethical Hacking (🤍🔁🧢), QA: Software Test Automation, API testing and Performance Testing, A.I. and a lot of other things.
 - 🌱 I’m currently learning CyberSecurity, Cloud Engineering and DevSecOps from online resources and courses.
 - 💞️ I’m looking to collaborate on Test Automation Frameworks.
 - 📫 How to reach me: dh42m4c0d32@proton.me
