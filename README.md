@@ -1,4 +1,4 @@
-- 🤝 G'day, I’m Dharma Coder the founder and nururing father of ✨AngelFactory✨.
+- 🤝 G'day, I’m Dharma Coder the founder and nurturing father of ✨AngelFactory✨.
 - 📜 I’m interested in CyberSecurity, especially Ethical Hacking 🤍🔁🧢.
 - 🪁 QA: Software Test Automation, API testing and Performance Testing, Accessibility and Automation of Visual Testing.
 - 🏄 Free solo rock climbing and highlining (slacklining).
